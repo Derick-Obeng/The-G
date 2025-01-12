@@ -3,10 +3,6 @@
 
 ---
 
-Here's a sample README for your CLI project:
-
----
-
 # GitHub Activity CLI
 
 ## Overview
