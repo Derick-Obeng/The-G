@@ -1,6 +1,6 @@
 # The-G
 
-the lin to my project: https://roadmap.sh/projects/github-user-activity
+"the link": https://roadmap.sh/projects/github-user-activity
 ---
 
 # GitHub Activity CLI
